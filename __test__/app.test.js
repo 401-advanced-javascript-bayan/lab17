@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 'use strict';
 
 const alterevents = require('../app/app.js');

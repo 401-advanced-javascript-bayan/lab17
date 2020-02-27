@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable semi */
 'use strict';
 
 const net = require('net');
