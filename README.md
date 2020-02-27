@@ -9,3 +9,4 @@ Tests
 No tests written, haven't gone over how to test sockets.
 
 UML
+![](https://github.com/401-advanced-javascript-bayan/lab17/blob/TCP/image/uuuuuu.jpeg)
